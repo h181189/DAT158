@@ -9,3 +9,5 @@ data/
 DAT158ML/
 .gradle/
 /build/
+out/
+.idea/
